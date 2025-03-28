@@ -1,0 +1,15 @@
+.todos {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button {
+    background-color: transparent;
+    color: #ff0b37;
+    border: 1px solid #ff0b37;
+    border-radius: 8px;
+    height: 24px;
+    width: 60px;
+}
